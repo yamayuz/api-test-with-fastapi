@@ -1,4 +1,4 @@
-# FastAPIテストお試し用のAPI
+# FastAPIお試し用のAPI
 ## Setup
 install Python libraries
 ```
